@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Luna-23",
+    "homeworld": "Zeta-5",
+    "traits": ["tentacles", "acid_blood"]
+  },
+  {
+    "id": 2,
+    "name": "Leia",
+    "homeworld": "Aldera-Prime",
+    "traits": ["rebel", "laser_weapons"]
+  },
+  {
+    "id": 3,
+    "name": "Vira",
+    "homeworld": "Orionis",
+    "traits": ["avenger", "metal_skin"]
+  }
+]
